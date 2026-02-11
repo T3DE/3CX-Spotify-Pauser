@@ -53,7 +53,8 @@ The compiled executable will be created at:
 dist\3CX-Spotify-Pauser.exe
 
 
-(Double-click to pause Spotify.)
+(Double-click to pause Spotify to test.)
+Set it as the executable file to be ran when you recieve an incoming call in 3CX in the settings.
 
 ℹ Notes
 
